@@ -1,2 +1,3 @@
-# egpl
-Ethereum General Public License
+# Ethereum General Public License ("EGPL")
+
+* The case for a new license
